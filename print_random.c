@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <time.h>
 
-
+char randchar(void);
 
 int main()
 {
@@ -18,4 +18,3 @@ int main()
 
 	return(0);
 }
-
